@@ -1,11 +1,11 @@
 # ===============================================================
 #           CREATE DASHBOARD BIKE SHARING USING STREAMLIT       =
 #           ---------------------------------------------       =
-# Nama          : Maulana Kavaldo                               =
-# Email         : alkav.maulana@gmail.com                       =
-# Id Dicoding   : dicoding.com/users/maulanakavaldo/            =
-# Github Pages  : maulanakavaldo.github.io                      =
-# Created       : 28 September 2023                             =
+# Nama          : Trianka Priya Utama                               =
+# Email         : triankaputama@gmail.com                       =
+# Id Dicoding   : https://www.dicoding.com/users/tri_utama/           =
+# Github Pages  : triutama133.github.io                      =
+# Created       : 24 December 2023                             =
 # ===============================================================
 
 # Import Library
